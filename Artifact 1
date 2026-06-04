@@ -1,0 +1,5 @@
+## This project simulates a virtual pet, similar to an old tomogachi. 
+## It uses an advanced understanding of classes, constructors, and calling methods to have multiple classes overlap to create the virtual pet.
+## The pet is it's own class, however the activities associated with the pet, such as feeding it or playing with it, are their own seperate classes for customization.
+## That, combined with the activites embedded in the pet class, make for a functional little digital pet project. Literally.
+  
