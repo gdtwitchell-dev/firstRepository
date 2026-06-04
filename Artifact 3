@@ -1,0 +1,3 @@
+## This project makes use of data sorting to take a large list, in this case of social tags, and sort through which are allowed.
+## It accomplishes this using a String[] list.
+## It is also capable of counting the amount of disallowed tags, showing close control of data sorting processes.
